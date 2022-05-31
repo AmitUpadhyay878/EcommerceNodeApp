@@ -1,0 +1,47 @@
+  
+{
+    "username": "Admin",
+    "email": "admin878@gmail.com",
+    "password": "$2b$12$31l/62ne5RZkpTyEMoTDlur91LSdjofPpIjbkIsSVFpva/lKH2wcK",     => admin123
+    "usAdmin": false,
+    "_id": "629608f336bb80ac2f6cc509",
+    "createdAt": "2022-05-31T12:24:19.798Z",
+    "updatedAt": "2022-05-31T12:24:19.798Z",
+    "__v": 0,
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyOTYwOGYzMzZiYjgwYWMyZjZjYzUwOSIsImlhdCI6MTY1NDAwMDAzMiwiZXhwIjoxNjU0MDg2NDMyfQ.wyIw2lFwgrW-SYnL-CmdlSApf3-SmkqEWy5PO19xbDA"
+}
+  ---------------------------------------------------
+   {
+    "username": "amitupadhyay",
+    "email": "amitupadhyay878@gmail.com",
+    "password": "$2b$12$11g4UqFTYxvPBqZXgcISJu676fwCLhSJp0jijTAlTTRcLthEOJ3Ta",   =>  amit123
+    "usAdmin": false,
+    "_id": "6295a6b3fe2270d9ffd20ebe",
+    "createdAt": "2022-05-31T05:25:07.525Z",
+    "updatedAt": "2022-05-31T05:25:07.525Z",
+    "__v": 0
+}
+
+   "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyOTVhNmIzZmUyMjcwZDlmZmQyMGViZSIsImlhdCI6MTY1Mzk4NzgyNywiZXhwIjoxNjU0MDc0MjI3fQ.7ecDdtu1NwurFxNwopdtj_VDzBRgbj0iwMAOl5XYfoo"
+---------------------------------------------------------
+{
+    "username": "kumarPatel",
+    "email": "kumarpatel@gmail.com",
+    "password": "$2b$12$2yS4KoV9yJqxvWXJzTtRTeozAqJAqooSyMlBR6ObrO08hrSQ2AhRS",    =>  kamal123
+    "usAdmin": false,
+    "_id": "6295a68bfe2270d9ffd20ebc",
+    "createdAt": "2022-05-31T05:24:27.674Z",
+    "updatedAt": "2022-05-31T05:24:27.674Z",
+    "__v": 0
+}
+
+{
+    "username": "pravinPatel",
+    "email": "pravinpatel878@gmail.com",
+    "password": "$2b$12$0N2txD20pccjAMlKmPBWWOSMoS7Ow7oAitEM9IZUKmIFt9XNdW2N2",   => pravin123
+    "usAdmin": false,
+    "_id": "6295a6fefe2270d9ffd20ec0",
+    "createdAt": "2022-05-31T05:26:22.225Z",
+    "updatedAt": "2022-05-31T05:26:22.225Z",
+    "__v": 0
+}
