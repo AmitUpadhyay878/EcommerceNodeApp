@@ -10,6 +10,21 @@
     "__v": 0,
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyOTYwOGYzMzZiYjgwYWMyZjZjYzUwOSIsImlhdCI6MTY1NDAwMDAzMiwiZXhwIjoxNjU0MDg2NDMyfQ.wyIw2lFwgrW-SYnL-CmdlSApf3-SmkqEWy5PO19xbDA"
 }
+
+---------------------------------------------------
+
+{
+    "username": "Admin2",
+    "email": "admin8787@gmail.com",
+    "password": "$2b$12$RS66ZoU4TxcG.hLUzPo1aOehoMmwMhd5LPumkKKnrcnEA7Py470Tu",
+    "usAdmin": false,
+    "_id": "6297483f8d080d81048f2352",
+    "createdAt": "2022-06-01T11:06:39.619Z",
+    "updatedAt": "2022-06-01T11:06:39.619Z",
+    "__v": 0,
+"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyOTc0ODNmOGQwODBkODEwNDhmMjM1MiIsInVzQWRtaW4iOmZhbHNlLCJpYXQiOjE2NTQwODE2NTQsImV4cCI6MTY1NDE2ODA1NH0.kbPDNeVJiejgf-xERitkwPBXR6hOfRqN80U00qpdjbY"
+}
+
   ---------------------------------------------------
    {
     "username": "amitupadhyay",
@@ -19,10 +34,11 @@
     "_id": "6295a6b3fe2270d9ffd20ebe",
     "createdAt": "2022-05-31T05:25:07.525Z",
     "updatedAt": "2022-05-31T05:25:07.525Z",
-    "__v": 0
+    "__v": 0,
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyOTVhNmIzZmUyMjcwZDlmZmQyMGViZSIsInVzQWRtaW4iOmZhbHNlLCJpYXQiOjE2NTQwODIyOTIsImV4cCI6MTY1NDE2ODY5Mn0.O877rLI151evVs-hs-zm38V5dT8WtfJmALEEzKc-lgg"
 }
 
-   "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyOTVhNmIzZmUyMjcwZDlmZmQyMGViZSIsImlhdCI6MTY1Mzk4NzgyNywiZXhwIjoxNjU0MDc0MjI3fQ.7ecDdtu1NwurFxNwopdtj_VDzBRgbj0iwMAOl5XYfoo"
+  
 ---------------------------------------------------------
 {
     "username": "kumarPatel",
