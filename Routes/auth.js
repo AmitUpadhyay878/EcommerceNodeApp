@@ -35,9 +35,9 @@ router.post("/login", async (req, res) => {
     if (!DBUser && res.status(401).json("Wrong Credentials"))
       decPass = Bcrypt.compareSync(password, DBUser.password);
 
-    //   decPass !== password &&
-    //   res.status(401).json("wrong credential") 
-    //   console.log("wrong Pass") 
+    if (decPass !== password &&
+      res.status(401).json("wrong credential") )
+      console.log("wrong Pass") 
 
     const accessToken= jwt.sign({
         id:DBUser._id,
