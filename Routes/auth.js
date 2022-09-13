@@ -11,6 +11,12 @@ router.post("/register", async (req, res) => {
     username: req.body.username,
     password: encPass,
     email: req.body.email,
+    firstname:req.body.firstname,
+    lastname:req.body.lastname,
+    address:req.body.address,
+    tc:req.body.tc,
+    pincode:req.body.pincode,
+    phone:req.body.phone
   });
   try {
     const NewUser = await newUser.save();
@@ -24,7 +30,7 @@ router.post("/register", async (req, res) => {
 router.post("/login", async (req, res) => {
   let password = req.body.password;
   try {
-    const DBUser = await User.findOne({ username: req.body.username });
+    const DBUser = await User.findOne({ email: req.body.email });
 
     if (!DBUser && res.status(401).json("Wrong Credentials"))
       decPass = Bcrypt.compareSync(password, DBUser.password);
