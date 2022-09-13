@@ -1,15 +1,15 @@
 // import Section
 const express = require("express");
 //CORS
-// const cors  = require('cors')
 const cors = require('cors');
 const app =express()
 const mongoose = require("mongoose")
 app.use(express.json());
 // app.use(cors({ origin: true }));
 app.use(cors({
-    origin: 'http://localhost:8989/'
-}))
+    origin: '*'
+}));
+
 require ("dotenv").config()
 
 const userRoute = require("./Routes/user")
