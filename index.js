@@ -8,9 +8,11 @@ const mongoose = require("mongoose")
 app.use(express.json());
 
 // app.use(cors({ origin: true }));
-app.use(cors({
-    origin: '*'
-}));
+// app.use(cors({
+//     origin: '*'
+// }));
+app.use(cors())
+app.options("*", cors());
 
 require ("dotenv").config()
 
